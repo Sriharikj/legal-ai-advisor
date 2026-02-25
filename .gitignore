@@ -1,0 +1,4 @@
+.env
+venv/
+legal_db/
+__pycache__/
